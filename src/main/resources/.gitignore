@@ -1,0 +1,7 @@
+/application-dev.properties
+/application-prod.properties
+/application-test.properties
+/application.properties
+/firebase_config.json
+/firebase_config_prod.json
+/firebase_config_test.json
